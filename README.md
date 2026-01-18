@@ -11,5 +11,5 @@ I like the orange color because it feels energetic and keeps me awake 😄
 - Super simple orange theme
 
 ### Live Demo
-You can try it here:  
-👉react-focus-timer-lyart.vercel.app
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://react-focus-timer-lyart.vercel.app/)
+
